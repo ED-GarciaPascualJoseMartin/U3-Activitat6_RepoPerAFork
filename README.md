@@ -36,8 +36,8 @@ Empar ha afegit el mètode que desitja: "Feliç Any Nou.  Pau i Salut per a tots
 
 
 #### AlumneFila1 PC1: 
-
-
+José Martín García Pascual.
+Pues he saludado y deseado feliz navidad y año nuevo a todo el mundo con un javaprograma.
 #### AlumneFila1 PC2:
 
 

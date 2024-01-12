@@ -102,6 +102,12 @@ public class MissatgesNadalencs {
 
 	// FILA 1
 	private static void AlumneFila1PC1() {
+                System.out.println("====================================");
+		System.out.println("Hola, sóc José Martín");
+                System.out.println(" FELIÇ ANY NOU !!!!!!");
+                System.out.println(" Desig per a tots.");
+                System.out.println("====================================");
+                System.out.println();
 
 	}
 
